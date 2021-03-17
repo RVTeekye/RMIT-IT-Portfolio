@@ -72,9 +72,9 @@ When forming a team, it is ideal to find people of similar learning styles so th
 <h3>Learning Style:</h3>
 I took the learning style test from <a href="http://emtrain.eu/learning-styles" target="_blank">emtrain.eu/learning-styles</a>
 <br>
-<img src="Learning.jpg" alt="Pie graph of learning style" style="width:700px;height:400px;">
+<img src="learning.jpg" alt="Pie graph of learning style" style="width:700px;height:400px;">
 <br>
-<img src="Learning2.jpg" alt="Text version of the two primary styles" style="width:700px;height:400px;">
+<img src="learning2.jpg" alt="Text version of the two primary styles" style="width:700px;height:400px;">
 <br>
 <h3>For a bit of fun:</h3>
 I took a quiz from Buzzfeed, the <a href="https://www.buzzfeed.com/pablovaldivia/rate-cookie-flavors-quiz" target="_blank">Buzzfeed Cookie Quiz</a> (yes, I know) rating different cookies to see about my personality. I like cookies so it was a no brainer.
