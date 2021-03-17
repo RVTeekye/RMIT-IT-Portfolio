@@ -26,7 +26,7 @@ New Zealand born Australian. I have lived in Australia now for longer than I did
 <br>
 <strong>Prior Education:</strong>
 <br>
-Year 12 Benowa high school, Benowa, Gold Coast, Queensland, Australia.
+Year 12 Benowa State High School, Gold Coast, Queensland, Australia.
 <br>
 <strong>Languages Spoken:</strong>
 <br>
