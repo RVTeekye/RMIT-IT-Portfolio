@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
@@ -21,13 +20,16 @@
 <br>
 <a href="https://github.com/Escape4rtist?tab=repositories" target="_blank">My Github Repositories</a>
 <br>
-Nationality:<br>
-New Zealand born Australian. I have lived in Australia now for longer than <br>I did in New Zealand, so while I have been an Australian citizen for 20 years that doesn’t mean I don’t have a special place in my heart for NZ.
+<strong>Nationality:</strong>
 <br>
-Prior Education:<br>
+New Zealand born Australian. I have lived in Australia now for longer than I did in New Zealand, so while I have been an Australian citizen for 20 years that doesn’t mean I don’t have a special place in my heart for NZ.
+<br>
+<strong>Prior Education:</strong>
+<br>
 Year 12 Benowa high school, Benowa, Gold Coast, Queensland, Australia.
 <br>
-Languages Spoken:<br>
+<strong>Languages Spoken:</strong>
+<br>
 English, but can say a few phrases in a few languages including Polish, German, French and Japanese.
 <br>
 <strong>Fun Fact:</strong><br>
