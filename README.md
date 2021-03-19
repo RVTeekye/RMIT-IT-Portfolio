@@ -1,6 +1,13 @@
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
+<style>
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
   
 <img src="Miles.jpg" alt="This is what I would look like if this picture loaded" style="width:300px;height:450px;">
 
