@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" href="style.css">
   
-<img src="Miles.jpg" alt="This is what I would look like if this picture loaded" style="width:300px;height:450px;">
+<img src="Miles.jpg" alt="This is what I would look like if this picture loaded" style="width:100px;height:250px;">
 
 <h1>Miles Wilson IT Portfolio</h1>
 <br>
